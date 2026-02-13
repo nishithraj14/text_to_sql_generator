@@ -6,6 +6,10 @@ Convert natural language queries into SQL and execute them on MySQL databases us
 ![Streamlit](https://img.shields.io/badge/Streamlit-latest-red)
 ![LangChain](https://img.shields.io/badge/LangChain-latest-green)
 
+![text_to_sqlsrec](https://github.com/user-attachments/assets/f4dc7cd0-f4f1-41ab-82fc-019982e9367e)
+
+
+
 ## 🚀 Features
 
 - 🤖 AI-powered natural language to SQL conversion
